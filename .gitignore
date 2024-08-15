@@ -145,6 +145,10 @@ $RECYCLE.BIN/
 *.iws
 *.iml
 *.ipr
+mvnw
+mvnw.cmd
+.mvn
+HELP.md
 
 ### NetBeans ###
 /nbproject/private/
